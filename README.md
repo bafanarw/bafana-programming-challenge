@@ -2,7 +2,7 @@
 
 ## About Us:
 
-Bafana.io making it easier for Africans working in the creative economy to collect tips/payments from fans on their apps, blogs & websites. ﻿It takes just a few minutes to set up.
+Bafana.io is making it easier for Africans working in the creative economy to collect tips/payments from fans on their apps, blogs & websites. ﻿It takes just a few minutes to set up.
 
 ## What we are looking for
 
@@ -17,7 +17,7 @@ Your tasks will be:
 
 ## What you can expect from us:
 
-- Figma designs to work from
+- Adobe XD designs to work from
 - A small but excellent team that you will be working close with
 - A backend team that will provide guidance and assistance Flexible work hours
 - Safe and accommodating environment to express your creativity
