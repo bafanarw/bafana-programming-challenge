@@ -55,7 +55,7 @@ currently the API has a list of available API endpoints to do the following.
 Documentation for the API can be found here
 https://documenter.getpostman.com/view/9305673/Uyr4Kzqm
 
-Your task should you choose to accept is to create a Vue front end application to implement the following
+Your task should you choose to accept it, is to create a Vue front end application to implement the following
 
 1. A registration page to create an account
 2. A login page to authenticate a user
