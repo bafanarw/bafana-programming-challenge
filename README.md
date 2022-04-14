@@ -66,9 +66,9 @@ Your task should you choose to accept is to create a Vue front end application t
 
 After you have completed your submission:
 
-Upload the code on your github repository
-Deploy the application
-Fill out the google form, here's the link
+Upload the code on your github repository, deploy the application to heroku, netlify or any other deployment service of your choice
+and send an email with your Github repo and application url to team@bafana.io
+
 
 
 Good Luck and happy coding!!
